@@ -1,0 +1,19 @@
+Documentation is something you want for your API. You want it for yourself, your colleagues, and any third-party developers 
+who might want to use your API. It's key to keep the documentation in sync with your API as it changes. 
+A good approach is to describe your API in a standardized way and ensure it's self-documenting. 
+
+Python is consistently rated as one of the world's most popular programming languages. 
+Python is fairly easy to learn, so if you are starting to learn any programming language then Python could be your great choice. 
+Today various Schools, Colleges and Universities are teaching Python as their primary programming language. 
+
+To bridge this gap, DWIT conducted the Power Workshop within the college premises.
+The workshop aimed to enhance the technical learning environment for students by offering special courses such as 
+AWS Cloud and Business Analysis, Mobile Application Development, and Digital Marketing. 
+This year, these courses were carefully selected to provide students with practical knowledge in relevant fields. 
+A total of 85 students enthusiastically participated in the workshop, eager to gain hands-on experience and stay updated with the latest industry trends. 
+The students actively engaged in the courses, learning practical skills and gaining valuable knowledge. 
+The instructors facilitated interactive sessions, encouraging discussions and providing guidance throughout the workshop.
+
+To bridge this gap, DWIT conducted the Power Workshop within the college premises. The workshop aimed to enhance the technical learning environment for students by offering special courses such as 
+AWS Cloud and Business Analysis, Mobile Application Development, and Digital Marketing. This year, these courses were carefully selected to provide students with practical knowledge in relevant fields. 
+A total of 85 students enthusiastically participated in the workshop, eager to gain hands-on experience and stay updated with the latest industry trends. The students actively engaged in the courses, learning practical skills and gaining valuable knowledge. The instructors facilitated interactive sessions, encouraging discussions and providing guidance throughout the workshop.
